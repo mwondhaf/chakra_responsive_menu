@@ -1,5 +1,4 @@
 import { Button, VStack } from "@chakra-ui/react";
-import React from "react";
 import { ChevronLeftIcon } from "@chakra-ui/icons";
 interface SubMenuProps {
   handleShowSubMenu: () => void;
